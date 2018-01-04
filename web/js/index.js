@@ -1,5 +1,5 @@
 $(function() {
-
+	//最新添加内容
 	$("#wei").hover(function() {
 		$("#jmtWeiBoImg1").css("display", "block");
 	}, function() {
